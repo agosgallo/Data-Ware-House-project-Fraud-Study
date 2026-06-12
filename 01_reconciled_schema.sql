@@ -1,5 +1,5 @@
 -- Reconciled database schema for the Fraud transaction dataset
--- Target DBMS: SQLite, but the model is portable to PostgreSQL/MySQL with minor syntax changes.
+-- Target DBMS: SQLite
 
 PRAGMA foreign_keys = ON;
 
